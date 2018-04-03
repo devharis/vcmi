@@ -57,6 +57,8 @@ set(client_SRCS
 		lobby/RandomMapTab.cpp
 		lobby/SelectionTab.cpp
 
+		vstd/StringUtils.cpp
+
 		CBitmapHandler.cpp
 		CreatureCostBox.cpp
 		CGameInfo.cpp
